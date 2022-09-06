@@ -11,6 +11,12 @@ Languages I code in:
  - Python
  - C#
  - C++
+ 
+My socials:
+ - Twitter: konotori1
+ - Instagram: konotorii
+ - osu!: 7270
+ - Discord: Konotorii#9182
 
 <!--
 **konotorii/konotorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
