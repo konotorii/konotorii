@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My current running projects:
+ - KonoStats
+ - KonoPickem
+ - KonoSkins
+ 
+Languages I code in:
+ - Typescript
+ - Javascript
+ - Python
+ - C#
+ - C++
+
 <!--
 **konotorii/konotorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
