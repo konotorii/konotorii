@@ -5,6 +5,7 @@ My current running projects:
  - KonoPickem | Match Prediction Website for osu! Tournaments.
  - KonoSkins | Archive of all my osu! skins.
  - oTMD | osu! Tournament and Map Database site aimed to make mappooling much easier.
+ - KonoBotto | Discord bot for osu! and general purposes. (Not yet released.)
  
 Languages I code in:
  - ✔️ Typescript
