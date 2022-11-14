@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 My current running projects:
- - KonoStats
- - KonoPickem
- - KonoSkins
+ - KonoStats | statistical website meant to take player skill representation to the next level.
+ - KonoPickem | Match Prediction Website for osu! Tournaments.
+ - KonoSkins | Archive of all my osu! skins.
+ - oTMD | osu! Tournament and Map Database site aimed to make mappooling much easier.
  
 Languages I code in:
- - Typescript
- - Javascript
- - Python
- - C#
- - C++
+ - ✔️ Typescript
+ - ✔️ Javascript
+ - ✔️ Python
+ - ✔️ C#
+ - ✔️ C++
  
 My socials:
  - Twitter: konotori1
