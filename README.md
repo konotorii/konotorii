@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://konotorii-stats.vercel.app/api?username=konotorii&count_private=true&show_icons=true&theme=monokai)
+![Konotorii Github Stats](https://konotorii-stats.vercel.app/api?username=konotorii&count_private=true&show_icons=true&theme=monokai)
+![Top Langs](https://konotorii-stats.vercel.app/api/top-langs/?username=konotorii&count_private=true)
