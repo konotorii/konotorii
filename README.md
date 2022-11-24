@@ -20,6 +20,11 @@ My socials:
  - osu!: 7270
  - Discord: Konotorii#9182
 
+Frameworks:
+ - React
+ - Angular
+ - Vue
+
 <!--
 **konotorii/konotorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
