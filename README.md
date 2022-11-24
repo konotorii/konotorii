@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 My current running projects:
- - KonoStats | statistical website meant to take player skill representation to the next level.
- - KonoPickem | Match Prediction Website for osu! Tournaments.
- - KonoSkins | Archive of all my osu! skins.
- - oTMD | osu! Tournament and Map Database site aimed to make mappooling much easier.
+ - [Portfolio](https://konotorii.com) | My portfolio site.
+ - [KonoStats](https://stats.konotorii.com) | statistical website meant to take player skill representation to the next level.
+ - [KonoPickem](https://pickem.konotorii.com) | Match Prediction Website for osu! Tournaments.
+ - [KonoSkins](https://skins.konotorii.com) | Archive of all my osu! skins.
+ - [oTMD](https://otmd.konotorii.com) | osu! Tournament and Map Database site aimed to make mappooling much easier.
  - KonoBotto | Discord bot for osu! and general purposes. (Not yet released.)
  
 Languages I code in:
