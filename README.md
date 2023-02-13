@@ -14,6 +14,8 @@ Languages I code in:
  - ✔️ C#
  - ✔️ C++
  - ✔️ Java
+ - ✔️ GoLang
+ - ✔️ Haskell
  
 My socials:
  - Twitter: konotori1
