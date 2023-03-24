@@ -4,7 +4,6 @@ My current running projects:
  - [Portfolio](https://konotorii.com) | My portfolio site.
  - [KonoStats](https://stats.konotorii.com) | statistical website meant to take player skill representation to the next level.
  - [KonoPickem](https://pickem.konotorii.com) | Match Prediction Website for osu! Tournaments.
- - [KonoSkins](https://skins.konotorii.com) | Archive of all my osu! skins.
  - [KonoBotto](https://discord.me/konobotto) | Discord bot for osu! and general purposes.
  
 Languages I code in:
@@ -16,6 +15,7 @@ Languages I code in:
  - ✔️ Java
  - ✔️ GoLang
  - ✔️ Haskell
+ - ✔️ Rust
  
 My socials:
  - Twitter: konotori1
