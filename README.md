@@ -20,7 +20,6 @@ Languages I code in:
 My socials:
  - Twitter: konotori1
  - Instagram: konotorii
- - osu!: TheRUGovernment
  - Discord: Konotorii
 
 Frameworks:
