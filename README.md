@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/Rlwz4m0aHgXH13jyrE/200w.gif?cid=6c09b952dv07zmifiso7kev2mc0c1ied42z8awu6usymfgl1&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
