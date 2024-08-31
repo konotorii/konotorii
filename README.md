@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" height="25" />
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff" height="25" />
   <img src="https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff" height="25" />
