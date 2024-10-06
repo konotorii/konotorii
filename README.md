@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Konotorii and I'm a Full-Stack Developer, from Germany living in the USA.</h2>
 
+<h3>My goal is to make an impact and create meaningful website and software solutions.</h3>
+
 ###
 
 <div align="center">
